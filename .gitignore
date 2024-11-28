@@ -27,4 +27,6 @@ Testing
 cmake-build-debug
 cmake-build-release
 cmake-build-relwithdebinfo
-packaging/Output/*
+packaging/Output/*.DS_Store
+cmake-build-default/
+cmake-build-default
